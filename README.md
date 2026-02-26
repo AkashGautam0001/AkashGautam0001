@@ -1,6 +1,6 @@
 # Hi, I’m Akash Gautam 👋
 
-Software Engineer passionate about building scalable systems, APIs, and internal tools.
+Backend-focused Software Engineer passionate about building scalable systems, APIs, and internal tools.
 
 ---
 
@@ -12,13 +12,24 @@ Software Engineer passionate about building scalable systems, APIs, and internal
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AkashGautam0001&show_icons=true&theme=default&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkashGautam0001&layout=compact&theme=default&hide_border=true" height="160"/>
+</p>
+
+---
+
 ## 🛠 Tech Stack
-**Languages:** JavaScript, TypeScript, Go, Java (DSA), Python (basic)  
-**Backend:** Node.js, Express.js, REST APIs, GraphQL, Microservices  
-**Databases:** MongoDB, PostgreSQL, MySQL, Redis  
-**Async & Realtime:** Queues, Background Jobs, Cron, WebSockets  
-**ORM / Tools:** Prisma, Sequelize, Mongoose  
-**Cloud & DevOps:** AWS EC2, AWS S3, PM2, GitHub Actions, Linux  
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 
 ---
 
