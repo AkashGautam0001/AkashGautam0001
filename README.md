@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Software+Engineer+%7C+API+Architect;Node.js+%7C+TypeScript+%7C+Go+%7C+React+%7C+Next.js;Building+Scalable+Systems+%26+Great+Products)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Software+Engineer+%7C+API+Architect;Building+Scalable+Systems+%26+Great+Products)](https://git.io/typing-svg)
 
 </div>
 
@@ -181,16 +181,11 @@ const akash: SoftwareEngineer = {
 
 ## 📊 &nbsp; GitHub Statistics
 
-<table align="center" border="0" cellpadding="10">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=AkashGautam0001&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED&text_color=c9d1d9&border_radius=12&cache_seconds=21600" height="180" alt="GitHub Stats"/>
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkashGautam0001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=c9d1d9&border_radius=12&langs_count=8&cache_seconds=21600" height="180" alt="Top Languages"/>
-    </td>
-  </tr>
-</table>
+## 📊 GitHub Stats
+
+![Followers](https://img.shields.io/github/followers/AkashGautam0001?style=flat)
+![Stars](https://img.shields.io/github/stars/AkashGautam0001?style=flat)
+![Repos](https://img.shields.io/github/repos/AkashGautam0001?style=flat)
 
 <div align="center">
 
