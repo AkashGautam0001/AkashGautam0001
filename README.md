@@ -181,28 +181,20 @@ const akash: SoftwareEngineer = {
 
 ## 📊 &nbsp; GitHub Statistics
 
-<table align="center">
+<table align="center" border="0" cellpadding="10">
   <tr>
-    <td>
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=AkashGautam0001&show_icons=true&count_private=true&theme=tokyonight"
-        height="170"
-        alt="GitHub Stats"
-      />
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=AkashGautam0001&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED&text_color=c9d1d9&border_radius=12&cache_seconds=21600" height="180" alt="GitHub Stats"/>
     </td>
-    <td>
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkashGautam0001&layout=compact&theme=tokyonight&langs_count=8"
-        height="170"
-        alt="Top Languages"
-      />
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkashGautam0001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=c9d1d9&border_radius=12&langs_count=8&cache_seconds=21600" height="180" alt="Top Languages"/>
     </td>
   </tr>
 </table>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=AkashGautam0001&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=FF6B6B&currStreakLabel=7C3AED&border_radius=12" height="180" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=AkashGautam0001&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=FF6B6B&currStreakLabel=7C3AED&border_radius=12" height="180" alt="GitHub Streak"/>
 
 </div>
 
