@@ -1,55 +1,260 @@
-# Hi, I’m Akash Gautam 👋
+<div align="center">
 
-Backend-focused Software Engineer passionate about building scalable systems, APIs, and internal tools.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Akash%20Gautam&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Backend%20Software%20Engineer&descAlignY=60&descSize=20&animation=twinkling" width="100%"/>
+
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Backend+Engineer+%7C+API+Architect;Node.js+%7C+TypeScript+%7C+Go+%7C+AWS;Building+Scalable+Systems+%26+Microservices)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
-## 🧠 About Me
-- Software Engineer at **JPR Technosoft LLP**
-- Working on **backend systems**, **service-based projects**, and **internal products**
-- Built real-world platforms involving **payments**, **RBAC**, **workflows**, and **microservices**
-- Strong interest in system design and backend architecture
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-akashgautam.in-7C3AED?style=for-the-badge&labelColor=0f0c29)](https://akashgautam.in)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akashgautam01)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akashgautam01584@gmail.com)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AkashGautam0001)
+
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## 🧠 &nbsp; About Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AkashGautam0001&show_icons=true&theme=default&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkashGautam0001&layout=compact&theme=default&hide_border=true" height="160"/>
+```ts
+const akash: BackendEngineer = {
+  role:       "Software Engineer @ JPR Technosoft LLP",
+  location:   "Ghaziabad, Uttar Pradesh, India 🇮🇳",
+  focus:      ["Backend Architecture", "API Design", "System Design"],
+  workingOn:  ["Feelzy (Payments Platform)", "Millio (Workflow System)"],
+  interests:  ["Microservices", "Realtime Systems", "Distributed Systems"],
+  funFact:    "I think in APIs and dream in distributed systems 🚀"
+};
+```
+
+---
+
+## 🛠️ &nbsp; Tech Stack & Tools
+
+### 💻 &nbsp; Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,typescript,go,javascript,python,java&theme=dark" />
+</p>
+
+### ⚙️ &nbsp; Backend & Frameworks
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=express,graphql,redis&theme=dark" />
+  <img src="https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white&height=48" height="48"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" height="48"/>
+  <img src="https://img.shields.io/badge/RBAC-6D28D9?style=flat-square&logoColor=white" height="48"/>
+</p>
+
+### 🗄️ &nbsp; Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis&theme=dark" />
+</p>
+
+### 🔧 &nbsp; ORM & Data Access
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=prisma&theme=dark" />
+  <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white" height="48"/>
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongodb&logoColor=white" height="48"/>
+</p>
+
+### ☁️ &nbsp; Cloud, DevOps & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,linux,docker,github,git&theme=dark" />
+  <img src="https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white" height="48"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" height="48"/>
+</p>
+
+### 🔄 &nbsp; Async, Queues & Realtime
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Message_Queues-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cron_Jobs-007ACC?style=for-the-badge&logo=clockify&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Background_Workers-4CAF50?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white"/>
 </p>
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 &nbsp; Notable Work
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+<table>
+  <tr>
+    <td width="50%">
+      <h3>💬 Feelzy — Consultation Platform</h3>
+      <p>A real-time consultation & communication platform with:</p>
+      <ul>
+        <li>💳 <strong>Wallet-based payment flows</strong> with transaction tracking</li>
+        <li>⏱️ <strong>Per-minute call & video billing</strong> with reconciliation</li>
+        <li>⚡ <strong>Real-time backend events</strong> for live call states</li>
+        <li>🔄 <strong>Queue-based async processing</strong> for notifications & retries</li>
+        <li>🕐 <strong>Cron jobs</strong> for settlements & reporting</li>
+        <li>🗃️ <strong>Redis caching</strong> for high-frequency operations</li>
+        <li>🛡️ <strong>Idempotent operations</strong> & payment failure handling</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%">
+      <h3>📋 Millio — Workflow Management System</h3>
+      <p>An internal task & workflow management platform (Product Initiator):</p>
+      <ul>
+        <li>🔐 <strong>Role-based access control (RBAC)</strong> with configurable permissions</li>
+        <li>📝 <strong>Task workflows with full audit history</strong></li>
+        <li>👥 <strong>Team management</strong> with assignment tracking</li>
+        <li>📊 <strong>Status tracking</strong> & user action logs</li>
+      </ul>
+      <br/><br/><br/>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🏨 Airbnb-Style Backend — Microservices</h3>
+      <p>A production-grade hotel booking platform built with microservices:</p>
+      <ul>
+        <li>🏗️ <strong>Hotel Service</strong> — TypeScript + Sequelize + MySQL</li>
+        <li>📅 <strong>Booking Service</strong> — Reservations & availability logic</li>
+        <li>🔔 <strong>Notification Service</strong> — Booking confirmations & alerts</li>
+        <li>🔒 <strong>Auth Service in Go</strong> — JWT, token management, scalability</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Microservices-FF6C37?style=flat&logo=postman&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%">
+      <h3>🔧 Backend API with Auth & RBAC</h3>
+      <p>Standalone backend API boilerplate with production-ready patterns:</p>
+      <ul>
+        <li>🛡️ <strong>JWT-based authentication</strong> & refresh token flow</li>
+        <li>🔐 <strong>Role-based access control</strong> middleware</li>
+        <li>📦 <strong>Clean architecture</strong> with separation of concerns</li>
+        <li>🚦 <strong>Rate limiting</strong>, error handling & logging</li>
+      </ul>
+      <br/>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🚀 Notable Work
-- **Feelzy** – Consultation & communication platform with wallet-based payments, realtime events, and async processing
-- **Millio** – Internal task & workflow management system (Product Initiator) with RBAC and audit history
-- **Airbnb-style Backend** – Microservices-based hotel booking platform with services in TypeScript and Go
+## 📊 &nbsp; GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=AkashGautam0001&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED&text_color=c9d1d9&border_radius=12" height="180"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkashGautam0001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=c9d1d9&border_radius=12&langs_count=8" height="180"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=AkashGautam0001&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=FF6B6B&currStreakLabel=7C3AED&border_radius=12" height="180"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AkashGautam0001&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=7C3AED&line=7C3AED&point=FF6B6B&area=true&area_color=7C3AED" width="95%"/>
+
+</div>
 
 ---
 
-## 📂 Projects
-Most of my backend projects, experiments, and system-design work are available here on GitHub.  
-I focus on **clean APIs**, **scalable designs**, and **production-ready patterns**.
+## 🏆 &nbsp; GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=AkashGautam0001&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%"/>
+
+</div>
 
 ---
 
-## 📫 Connect With Me
-- 🌐 Portfolio: https://akashgautam.in  
-- 💼 LinkedIn: https://linkedin.com/in/akashgautam01  
+## 📈 &nbsp; What I Focus On
+
+<div align="center">
+
+| 🎯 Domain | 🛠️ What I Build |
+|:----------|:----------------|
+| **Payment Systems** | Wallet flows, per-minute billing, reconciliation, idempotency |
+| **Realtime & Async** | Event-driven systems, queues, cron jobs, background workers |
+| **Auth & Access** | JWT auth, RBAC, multi-level hierarchies, token management |
+| **API Design** | REST, GraphQL, clean contracts, versioning, error standards |
+| **Microservices** | Service decomposition, inter-service communication, event buses |
+| **Performance** | Redis caching, DB query optimization, connection pooling |
+
+</div>
 
 ---
 
-⭐ *Always learning. Always building.*
+## 🌱 &nbsp; Currently Exploring
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+  <img src="https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/System_Design-7C3AED?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Go_Advanced-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+</p>
+
+---
+
+## 🤝 &nbsp; Let's Connect
+
+<div align="center">
+
+> 💡 *Open to backend engineering roles, collaborations, and interesting backend challenges.*
+
+[![Portfolio](https://img.shields.io/badge/🌐_akashgautam.in-Visit_Now-7C3AED?style=for-the-badge)](https://akashgautam.in)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akashgautam01)
+&nbsp;
+[![Email](https://img.shields.io/badge/Gmail-Drop_a_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akashgautam01584@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer&animation=twinkling" width="100%"/>
+
+**⭐ Always Learning. Always Building. Always Shipping.**
+
+![Profile Views](https://komarev.com/ghpvc/?username=AkashGautam0001&color=7C3AED&style=for-the-badge&label=Profile+Views)
+
+</div>
