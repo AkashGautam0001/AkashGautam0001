@@ -181,13 +181,21 @@ const akash: SoftwareEngineer = {
 
 ## 📊 &nbsp; GitHub Statistics
 
-<table align="center" border="0" cellpadding="10">
+<table align="center">
   <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=AkashGautam0001&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED&text_color=c9d1d9&border_radius=12" height="180" alt="GitHub Stats"/>
+    <td>
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=AkashGautam0001&show_icons=true&count_private=true&theme=tokyonight"
+        height="170"
+        alt="GitHub Stats"
+      />
     </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkashGautam0001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=c9d1d9&border_radius=12&langs_count=8" height="180" alt="Top Languages"/>
+    <td>
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkashGautam0001&layout=compact&theme=tokyonight&langs_count=8"
+        height="170"
+        alt="Top Languages"
+      />
     </td>
   </tr>
 </table>
