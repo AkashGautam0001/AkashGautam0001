@@ -1,6 +1,6 @@
 # Hi, I’m Akash Gautam 👋
 
-Backend-focused Software Engineer passionate about building scalable systems, APIs, and internal tools.
+Software Engineer passionate about building scalable systems, APIs, and internal tools.
 
 ---
 
