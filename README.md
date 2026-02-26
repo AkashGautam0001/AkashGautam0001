@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Akash%20Gautam&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Backend%20Software%20Engineer&descAlignY=60&descSize=20&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Akash%20Gautam&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer&descAlignY=60&descSize=20&animation=twinkling" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Backend+Engineer+%7C+API+Architect;Node.js+%7C+TypeScript+%7C+Go+%7C+AWS;Building+Scalable+Systems+%26+Microservices)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Software+Engineer+%7C+API+Architect;Node.js+%7C+TypeScript+%7C+Go+%7C+React+%7C+Next.js;Building+Scalable+Systems+%26+Great+Products)](https://git.io/typing-svg)
 
 </div>
 
@@ -29,13 +29,13 @@
 ## 🧠 &nbsp; About Me
 
 ```ts
-const akash: BackendEngineer = {
+const akash: SoftwareEngineer = {
   role:       "Software Engineer @ JPR Technosoft LLP",
   location:   "Ghaziabad, Uttar Pradesh, India 🇮🇳",
-  focus:      ["Backend Architecture", "API Design", "System Design"],
+  focus:      ["Backend Architecture", "API Design", "Frontend (React/Next.js)", "System Design"],
   workingOn:  ["Feelzy (Payments Platform)", "Millio (Workflow System)"],
-  interests:  ["Microservices", "Realtime Systems", "Distributed Systems"],
-  funFact:    "I think in APIs and dream in distributed systems 🚀"
+  interests:  ["Microservices", "Realtime Systems", "Full-Stack Products"],
+  funFact:    "I build from APIs to UIs — end to end 🚀"
 };
 ```
 
@@ -49,11 +49,18 @@ const akash: BackendEngineer = {
   <img src="https://skillicons.dev/icons?i=nodejs,typescript,go,javascript,python,java&theme=dark" />
 </p>
 
+### 🎨 &nbsp; Frontend & UI
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark" />
+</p>
+
 ### ⚙️ &nbsp; Backend & Frameworks
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=express,graphql,redis&theme=dark" />
-  <img src="https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white&height=48" height="48"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white" height="48"/>
   <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" height="48"/>
   <img src="https://img.shields.io/badge/RBAC-6D28D9?style=flat-square&logoColor=white" height="48"/>
 </p>
@@ -68,6 +75,7 @@ const akash: BackendEngineer = {
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=prisma&theme=dark" />
+  &nbsp;
   <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white" height="48"/>
   <img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongodb&logoColor=white" height="48"/>
 </p>
@@ -76,6 +84,7 @@ const akash: BackendEngineer = {
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=aws,linux,docker,github,git&theme=dark" />
+  &nbsp;
   <img src="https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white" height="48"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" height="48"/>
 </p>
@@ -172,23 +181,26 @@ const akash: BackendEngineer = {
 
 ## 📊 &nbsp; GitHub Statistics
 
+<table align="center" border="0" cellpadding="10">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=AkashGautam0001&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED&text_color=c9d1d9&border_radius=12" height="180" alt="GitHub Stats"/>
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkashGautam0001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=c9d1d9&border_radius=12&langs_count=8" height="180" alt="Top Languages"/>
+    </td>
+  </tr>
+</table>
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AkashGautam0001&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED&text_color=c9d1d9&border_radius=12" height="180"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkashGautam0001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=c9d1d9&border_radius=12&langs_count=8" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=AkashGautam0001&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=FF6B6B&currStreakLabel=7C3AED&border_radius=12" height="180" alt="GitHub Streak"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=AkashGautam0001&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=FF6B6B&currStreakLabel=7C3AED&border_radius=12" height="180"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AkashGautam0001&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=7C3AED&line=7C3AED&point=FF6B6B&area=true&area_color=7C3AED" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AkashGautam0001&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=7C3AED&line=7C3AED&point=FF6B6B&area=true&area_color=7C3AED" width="95%" alt="Activity Graph"/>
 
 </div>
 
@@ -210,6 +222,7 @@ const akash: BackendEngineer = {
 
 | 🎯 Domain | 🛠️ What I Build |
 |:----------|:----------------|
+| **Frontend** | React apps, Next.js SSR/SSG, responsive UIs, API integration |
 | **Payment Systems** | Wallet flows, per-minute billing, reconciliation, idempotency |
 | **Realtime & Async** | Event-driven systems, queues, cron jobs, background workers |
 | **Auth & Access** | JWT auth, RBAC, multi-level hierarchies, token management |
@@ -237,7 +250,7 @@ const akash: BackendEngineer = {
 
 <div align="center">
 
-> 💡 *Open to backend engineering roles, collaborations, and interesting backend challenges.*
+> 💡 *Open to engineering roles, collaborations, and interesting product challenges.*
 
 [![Portfolio](https://img.shields.io/badge/🌐_akashgautam.in-Visit_Now-7C3AED?style=for-the-badge)](https://akashgautam.in)
 &nbsp;
